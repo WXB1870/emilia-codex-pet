@@ -1,0 +1,30 @@
+{
+  "format": "PNG",
+  "spriteVersionNumber": 2,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "cell": [
+    192,
+    208
+  ],
+  "requiredFramesByRow": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "sha256": "b89f94c5eadb0ff88c994031f54180ccaf92c015854cf7794a3c33dad7980802",
+  "transparentBackground": true,
+  "structuralValidationPassed": true,
+  "desktopHoverIntegrationVerified": false,
+  "knownIssue": "Settings preview is correct, but the desktop floating window continued to display older motions after refresh and hide/show."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "custom:emilia-anime",
+  "displayName": "爱蜜莉雅",
+  "description": "非官方爱蜜莉雅 Codex 桌宠，包含待机、双向跑动、俯身脸旁比耶及鼠标跟随姿势。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.png"
+}
